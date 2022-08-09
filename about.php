@@ -47,7 +47,7 @@
         <li><a class="dropdown-item" href="#">Taxi Services (Pick & Drop)</a></li>
         <li><a class="dropdown-item" href="#">Cooperive Members</a></li>
         <li><a class="dropdown-item" href="#">Ofw Discount</a></li>
-        <li><a class="dropdown-item" href="#">Senior Citizen</a></li>
+        <li><a class="dropdown-item" href="#">Senior Citizens</a></li>
         <li><a class="dropdown-item" href="#">Booking tour in K.S.A</a></li>
 
           </ul>
